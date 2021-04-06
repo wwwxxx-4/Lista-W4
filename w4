@@ -391,7 +391,3 @@ http://187.95.149.94:8000/play/a007/index.m3u8
 http://187.95.149.94:8000/play/a008/index.m3u8
 #EXTINF:-1 ,9
 http://187.95.149.94:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r4XIVII.jpg" group-title="BRASIL", DISCOVERY KIDS
-https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/esportes10_2000/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/r4XIVII.jpg" group-title="BRASIL", tESTE w4
-http://187.95.149.94:8000/play/a009/index.m3u8

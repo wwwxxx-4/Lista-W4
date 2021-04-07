@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1  tvg-logo=" " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/200px-GNT_logo-roxo.svg.png" group-title="Satelite 1", GNT
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/GNT_logo-roxo.svg/200px-GNT_logo-roxo.svg.png" group-title="Satelite 1", GNT
 http://187.32.214.221:8003/play/a020/index.m3u8
-#EXTINF:-1  tvg-logo=" ",Unknown_21
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/200px-Multishow.png" group-title="Satelite 1", MultiShow
 http://187.32.214.221:8003/play/a021/index.m3u8
-#EXTINF:-1  tvg-logo=" ",Unknown_22
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/a/a2/Logo_Premiere_FC_2018.png/250px-Logo_Premiere_FC_2018.png" group-title="Satelite 1", Premiere
 http://187.32.214.221:8003/play/a022/index.m3u8
 #EXTINF:-1  tvg-logo=" ",Unknown_23
 http://187.32.214.221:8003/play/a023/index.m3u8
